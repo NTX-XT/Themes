@@ -4,7 +4,7 @@
     background: 
     linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgb(220, 224, 231, 1.0));
 }
-[dir] .nx-theme-styles .nx-theme-form .form-group {
+[dir] .nx-theme-styles .nx-theme-form {
     font-family: 'Playfair Display';
 }
 [dir] .nx-theme-styles .nx-theme-page {
