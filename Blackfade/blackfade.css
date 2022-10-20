@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair Display&display=swap');
+
 [dir] .nx-theme-styles .nx-theme-form {
     background: 
     linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgb(220, 224, 231, 1.0));
@@ -37,7 +39,7 @@
   cursor: pointer;
   transition: all 0.2s ease;
   border-radius: 25px;
-  font-family: montserrat, arial, verdana;
+  font-family: Playfair Display;
   }
 
   .nx-theme-styles .nx-theme-form .nx-theme-button-1:active {
