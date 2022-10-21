@@ -2,6 +2,7 @@
 
 [dir] .nx-theme-styles .nx-theme-label-1 {
     font-family: "Playfair Display";
+    text-shadow: 2px 2px #000000;
     font-size: inherit;
 }
 [dir] .nx-theme-styles .nx-theme-richtext {
@@ -11,9 +12,6 @@
 [dir] .nx-theme-styles .nx-theme-form {
     background: 
     linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgb(220, 224, 231, 1.0));
-}
-[dir] .nx-theme-styles .nx-theme-form {
-    
 }
 [dir] .nx-theme-styles .nx-theme-page {
     background: 
@@ -52,7 +50,7 @@
   border-radius: 25px;
   }
 
-  .nx-theme-styles .nx-theme-form .nx-theme-button-1:active {
+[dir] .nx-theme-styles .nx-theme-form .nx-theme-button-1:active {
   background-color: #003870;
   box-shadow: 0 0 2px darkslategray;
   transform: translateY(2px);
