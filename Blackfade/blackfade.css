@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair Display&display=swap');
 
-body html  {
+[dir] .nx-theme-styles .nx-theme-label-1 {
     font-family: "Playfair Display";
-
 }
 
 [dir] .nx-theme-styles .nx-theme-form {
@@ -10,7 +9,7 @@ body html  {
     linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgb(220, 224, 231, 1.0));
 }
 [dir] .nx-theme-styles .nx-theme-form {
-    font-family: 'Playfair Display';
+    
 }
 [dir] .nx-theme-styles .nx-theme-page {
     background: 
