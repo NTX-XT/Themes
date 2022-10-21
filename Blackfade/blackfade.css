@@ -2,8 +2,12 @@
 
 [dir] .nx-theme-styles .nx-theme-label-1 {
     font-family: "Playfair Display";
+    font-size: inherit;
 }
-
+[dir] .nx-theme-styles .nx-control-richtext-label {
+    font-family: "Playfair Display";
+    font-size: inherit;
+}
 [dir] .nx-theme-styles .nx-theme-form {
     background: 
     linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgb(220, 224, 231, 1.0));
